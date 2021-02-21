@@ -1,0 +1,96 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #60e7b6;
+}
+
+.navbar {
+        background: #142e41;
+}
+
+.navbar-brand {
+    color: #a2dcfd;
+    font-family: 'VT323', monospace;
+    font-size: 36px !important;
+    cursor: pointer;
+}
+
+.navbar-brand:hover {
+    color: #4bc4f8;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.header {
+    background-image: url('https://i.ibb.co/NF0snnt/3-D-Cube-Pink-and-Blue-neon-Box-Perspective-Abstract-Background.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    font-family: 'VT323', monospace;
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.35);
+}
+
+
+.description {
+    left: 50%;
+    position: absolute;
+    top: 45%;
+    transform: translate(-50%, -55%);
+    text-align: center;
+}
+.description h1 {
+    color: #a2dcfd;
+}
+.description h2 {
+    color: #a2dcfd;
+}
+.description h3 {
+    color: #ffffff;
+}
+.description p {
+    color: #fff;
+    font-size: 1.3rem;
+    line-height: 1.0;
+}
+
+.description button {
+    border:1px solid #f8a62c;
+    background: #ff0cb1;
+    border-radius: 0;
+    color:#fff;
+}
+.description button:hover {
+    border:1px solid #fff;
+    background: #fd07fb;
+    color:#000;
+}
+
+body {
+  margin: 0;
+}
+
+#over img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.features .form-control,
+.features input {
+    border-radius: 0;
+}
+
