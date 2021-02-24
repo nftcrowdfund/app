@@ -6,7 +6,6 @@ body {
 
 .navbar {
         background: #142e41;
-        padding-top: 0 !important;
         padding-bottom: 0 !important;
 }
 
@@ -15,7 +14,6 @@ body {
     font-family: 'VT323', monospace;
     font-size: 24px !important;
     cursor: pointer;
-    padding-top: 0 !important;
     padding-bottom: 0 !important;
 }
 
