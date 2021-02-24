@@ -6,6 +6,8 @@ body {
 
 .navbar {
         background: #142e41;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
 }
 
 .navbar-brand {
@@ -13,6 +15,8 @@ body {
     font-family: 'VT323', monospace;
     font-size: 32px !important;
     cursor: pointer;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
 }
 
 .navbar-brand:hover {
